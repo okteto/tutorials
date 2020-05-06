@@ -54,3 +54,5 @@ Const: Base images changes. Build in cluster consumes resources.
 Pros: Replicable, fast, debuggers, decouple, client-side only
 
 Const: Unable to work without internet. Latency editing files.
+
+It is a trad-off. No syncthing, but harder network dependency.
